@@ -5,5 +5,5 @@ CPM external for Igloo testing library
 
 
 ```c++
-#include <igloo/igloo.hpp>
+#include <igloo/igloo.h>
 ```
